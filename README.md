@@ -23,8 +23,8 @@ This guide helps you set up a local development environment for N8N with the fol
 ### Project Setup
 
 1. **Create and Clone the Project**:
-   - Create a project folder: `mkdir n8n-simple`
-   - Clone the repository: `git clone https://github.com/thangtuts/n8n-localhost.git`
+   - Create a project folder: `mkdir n8n-localhost`
+   - Clone the repository: `git clone https://github.com/thangnqs/n8n-localhost.git .`
 
 2. **Generate SSL Certificates**:
    - Navigate to the certificates directory: `cd nginx/certs`
