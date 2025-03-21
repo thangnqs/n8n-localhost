@@ -8,6 +8,7 @@ services:
       - 443:443
     depends_on:
       - n8n
+      
   postgres:
     image: postgres:16
     restart: always

@@ -51,8 +51,7 @@ This guide helps you set up a local development environment for N8N with the fol
 
    - Start docker and ```docker compose up -d```
 
-
-
+   
 ### Accessing PostgreSQL?
 
 To connect to the PostgreSQL database, use the following details:
@@ -74,13 +73,6 @@ You are now ready to use N8N with HTTPS and a custom domain on your local machin
 <img src="screenshots/2.png" alt="N8N Execution Logs Preview" height="300">
 
 <img src="screenshots/3.png" alt="Access PostgreSQL" height="300">
-
-
-### Support My Work
-
-If you find this guide helpful, consider supporting me by donating. Simply scan the QR code below:
-
-<img src="screenshots/donate.png" alt="Donate QR Code" height="200">
 
 ### Disclaimer: Not Suitable for Production Use
 
